@@ -1,0 +1,13 @@
+Intructions:
+
+To run the Smalltalk script in Squeak 6.0, follow these steps:
+
+1. Open the hivdyn.txt file in your text editor.
+
+2. Select all content (Ctrl + A / Cmd + A) and copy it (Ctrl + C).
+
+3. Launch Squeak 6.0, open… → Tools → Workspace.
+
+4. Paste the code into the Workspace (Ctrl + V).
+
+5. Select all text in the Workspace and execute it with Do It (Ctrl + D).
