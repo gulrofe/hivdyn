@@ -1,11 +1,12 @@
 # hivdyn
-HIV dynamics in the Squeak Workspace
 
-This work was inspired by the article:
+HIV Dynamics in the Squeak Workspace
+
+This study was inspired by the following working paper:
 
 > Perelson, A. S., Neumann, A. U., Markowitz, M., Leonardy, J. M., & Ho, D. D.  
-> HIV-1 Dynamics In Vivo: Virion Clearance Rate, Infected Cell Lifespan, and Viral Generation Time.  
-> SFI Working Paper 1996-02-004. Santa Fe Institute, USA.
+> *HIV-1 Dynamics In Vivo: Virion Clearance Rate, Infected Cell Lifespan, and Viral Generation Time*.  
+> SFI Working Paper 1996-02-004, Santa Fe Institute, NM, USA.
 
 @techreport{Perelson1996,
   author       = {Perelson, Alan S. and Neumann, Avidan U. and Markowitz, Martin and Leonardy, John M. and Ho, David D.},
@@ -16,3 +17,7 @@ This work was inspired by the article:
   year         = {1996},
   address      = {Santa Fe, NM, USA}
 }
+
+ 
+
+ 
