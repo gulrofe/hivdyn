@@ -1,7 +1,6 @@
-
 "
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-X  HIV-1 Dynamics in the Squeak Workspace                        X
+X  HIV-1 Dynamics in the Squeak Workspace                       X
 X  Author: Felix Rodrigues Gulias - 2025 - Sao Paulo - Brazil   X
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 "
@@ -39,8 +38,8 @@ c := 4.4642857142857142857142857142857. "c is the rate constant for viral cleara
 
 "CALCULATION"
 "=================================="
-target := k*vv*tt-delta*pp. "Target cells calculation"
-infected := n*delta*pp-c*vv. "Infected cells calculation"
+target := (k*vv*tt)-(delta*pp). "Target cells calculation"
+infected := (n*delta*pp)-(c*vv). "Infected cells calculation"
 "=================================="
 
 "WINDOW WITH RESULTS EXPLAINED"
@@ -63,4 +62,3 @@ show: 'Viral density: '; show:(infected asString), '  (', (((infected/target))*1
 cr;
 cr.
 "================================================"
-
