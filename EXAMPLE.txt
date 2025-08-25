@@ -1,0 +1,95 @@
+Example:
+
+A patient presents the following HIV-RNA measurements over 24 weeks:
+
+1- HIV-RNA: 130000 copies/ml
+
+2- HIV-RNA: 115000 copies/ml
+
+3- HIV-RNA: 138000 copies/ml
+
+4- HIV-RNA: 100000 copies/ml
+
+5- HIV-RNA: 130000 copies/ml
+
+6- HIV-RNA: 120000 copies/ml
+
+For obtain Uninfected cells density, and Viral density of all that values. You change the variable: hivrna, six times:
+
+hivrna := 130000.
+
+hivrna := 115000.
+
+hivrna := 138000.
+
+hivrna := 100000.
+
+hivrna := 130000.
+
+hivrna := 120000.
+
+1- Open your Workspace and go to line 16 where hivrna is defined.
+
+2- Replace the existing assignment with one of the values above.
+
+3- Select that line and perform Do It.
+
+4- Repeat steps 2–3 for each HIV-RNA value, executing one assignment per Do It session.
+
+You should obtain the following values:
+
+1:
+HIV-1 RNA: 130000 copies/ml
+
+HRP: 325000000 copies/day
+
+The uninfected cells density: 8.368749999999999e25  (2.3898431665421963e-15 %)
+
+Viral density: 5.858124999985491e20  (0.0006999999999982664 %)
+
+2:
+HIV-1 RNA: 115000 copies/ml
+
+HRP: 287500000 copies/day
+
+The uninfected cells density: 7.403124999999999e25  (2.701561840439004e-15 %)
+
+Viral density: 5.182187499987165e20  (0.0006999999999982664 %)
+
+3:
+HIV-1 RNA: 138000 copies/ml
+
+HRP: 345000000 copies/day
+
+The uninfected cells density: 8.883749999999999e25  (2.25130153369917e-15 %)
+
+Viral density: 6.218624999984598e20  (0.0006999999999982664 %)
+
+4:
+HIV-1 RNA: 100000 copies/ml
+
+HRP: 250000000 copies/day
+
+The uninfected cells density: 6.4374999999999986e25  (3.106796116504855e-15 %)
+
+Viral density: 4.506249999988839e20  (0.0006999999999982664 %)
+
+5:
+HIV-1 RNA: 130000 copies/ml
+
+HRP: 325000000 copies/day
+
+The uninfected cells density: 8.368749999999999e25  (2.3898431665421963e-15 %)
+
+Viral density: 5.858124999985491e20  (0.0006999999999982664 %)
+
+6:
+HIV-1 RNA: 120000 copies/ml
+
+HRP: 300000000 copies/day
+
+The uninfected cells density: 7.724999999999999e25  (2.5889967637540457e-15 %)
+
+Viral density: 5.407499999986607e20  (0.0006999999999982664 %)
+
+
