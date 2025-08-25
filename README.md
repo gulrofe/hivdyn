@@ -19,6 +19,15 @@ This Squeak program was inspired by the following working paper:
   address      = {Santa Fe, NM, USA}
 }
 
- 
+ ## Usage
+
+To load and run the `hivdyn.txt` Smalltalk script in Squeak 6.0, follow these steps:
+
+1. Open the `hivdyn.txt` file in your text editor.  
+2. Select all content (Ctrl + A / Cmd + A) and copy it (Ctrl + C / Cmd + C).  
+3. Launch Squeak 6.0, open the World menu, then select **open… → Tools → Workspace**.  
+4. Paste the code into the Workspace (Ctrl + V / Cmd + V).  
+5. Select all text in the Workspace and execute it with **Do It** (Ctrl + D / Cmd + D).  
+
 
  
