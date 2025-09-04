@@ -1,11 +1,11 @@
 # hivdyn
 
-#Smalltalk Squeak program.
+Squeak program.
 
 HIV-1 Dynamics in the Squeak Workspace                         
 Author: Felix Rodrigues Gulias - 2025 - Sao Paulo - Brazil  
 
-This Squeak program was inspired by the following working paper:
+This program was inspired by the following working paper:
 
 > Perelson, A. S., Neumann, A. U., Markowitz, M., Leonardy, J. M., & Ho, D. D.  
 > *HIV-1 Dynamics In Vivo: Virion Clearance Rate, Infected Cell Lifespan, and Viral Generation Time*.  
