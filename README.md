@@ -2,7 +2,7 @@
 
 HIV-1 Dynamics in the Squeak Workspace                         
 Author: Felix Rodrigues Gulias - 2025 - Sao Paulo - Brazil
-Squeak language
+Squeak language Smalltalk language
 
 This program was inspired by the following working paper:
 
