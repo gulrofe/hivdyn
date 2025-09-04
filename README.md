@@ -1,6 +1,6 @@
 # hivdyn
 
-Smalltalk Squeak program.
+#Smalltalk Squeak program.
 
 HIV-1 Dynamics in the Squeak Workspace                         
 Author: Felix Rodrigues Gulias - 2025 - Sao Paulo - Brazil  
