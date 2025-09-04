@@ -28,7 +28,18 @@ To run the Smalltalk script in Squeak 6.0, follow these steps:
 2. Select all content (Ctrl + A) and copy it (Ctrl + C).  
 3. Launch Squeak 6.0, open the Tools menu, then select **Workspace**.  
 4. Paste the code into the Workspace (Ctrl + V).  
-5. Select all text in the Workspace and execute it with **Do It** (Ctrl + D).  
+5. Select all text in the Workspace and execute it with **Do It** (Ctrl + D).
+
+## 🔑 Keywords
+
+- HIV dynamics  
+- General Medicine  
+- Health Informatics  
+- Medical Informatics  
+- Object-Oriented Languages  
+- Simulations  
+- Smalltalk
+- Squeak
 
 
  
